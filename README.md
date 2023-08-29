@@ -1,6 +1,6 @@
 # Language Prediction
 
-#### As part of my 6th semester B.Tech minor project at KIIT University in CSE, I played a role in the project by focusing on data visualization using Plotly and T-SNE techniques.
+#### In my 6th semester B.Tech minor project at KIIT University, I focused on data visualization using Plotly and T-SNE, contributing significantly to the project's implementation. The project aimed to detect 17 different languages through diverse deep learning and machine learning methods, including LangDetect, LangId, FastText, Sentence Transformer, CNN, LSTM, and multi-layer perceptron. The ultimate goal was to effectively visualize the language detection outcomes using T-SNE and Plotly.
 
 ## Requirements
 The project requires the following packages to be installed:
