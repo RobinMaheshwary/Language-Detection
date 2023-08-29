@@ -1,5 +1,7 @@
 # Language Prediction
 
+#### As part of my 6th semester B.Tech minor project at KIIT University in CSE, I played a role in the project by focusing on data visualization using Plotly and T-SNE techniques.
+
 ## Requirements
 The project requires the following packages to be installed:
 
@@ -24,12 +26,12 @@ To run the project, you can follow these steps:
 
 - Clone the repository to your local machine:
 ```bash
-> git clone https://github.com/jaywyawhare/Language-Prediction.git
+> git clone https://github.com/RobinMaheshwary/Language-Detection.git
 ```
 
 - Navigate to the project directory:
 ```bash
-> cd Language-Prediction
+> cd Language-Detection
 ```
 
 - Install the required packages:
